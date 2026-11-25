@@ -28,5 +28,3 @@ pub fn enum_option_n_advantage_over_null() {
     //let y: Option<i8> = Option::Some(5);
     //let sum = x + y;
 }
-
-// NOTE: currenty I don't understand yet.
